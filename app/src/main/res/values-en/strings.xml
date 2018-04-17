@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cellphones</string>
+    <string name="opciones">Options</string>
+    <string name="crear">Create</string>
+    <string name="mostrar">Show</string>
+    <string name="celularAd">Add cell</string>
+    <string name="agregar">Add</string>
+    <string name="cancelar">Erase</string>
+    <string name="precio">Price:</string>
+    <string name="ram">Ram:</string>
+    <string name="marca">Brand:</string>
+    <string name="sistemaOp">O.S</string>
+    <string name="color">Color:</string>
+    <string name="mensajeExitoso">Cellphone complete</string>
+    <string name="listaReportes">Reports</string>
+    <string name="huaweiBlancoAndroid">White Huawei Cheaper</string>
+    <string name="samsung">Samsung</string>
+    <string name="huawei">Huawei</string>
+    <string name="android">Android</string>
+    <string name="negro">Black</string>
+    <string name="azul">Blue</string>
+    <string name="blanco">White</string>
+    <string name="rojo">Red</string>
+    <string name="samsungnegros">Black Samsung</string>
+    <string name="numero">No.</string>
+    <string name="registros">Samsung</string>
+    <string name="registro">Records</string>
+    <string name="error">Type the price</string>
+    <string name="error1">Type the ram</string>
+    <string name="error2">The price can not be 0</string>
+    <string name="error3">The ram can not be 0</string>
+    <string name="reportes">Reports</string>
+    <string name="ios">IOS</string>
+</resources>

@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Celulares</string>
+    <string name="opciones">OPCIONES</string>
+    <string-array name="arrayOpc">
+        <item>@string/crear</item>
+        <item>@string/mostrar</item>
+    </string-array>
+    <string-array name="arrayOpcMostrar">
+        <item>@string/samsungnegros</item>
+        <item>@string/huaweiBlancoAndroid</item>
+
+
+    </string-array>
+    <string-array name="marcaCel">
+        <item>@string/samsung</item>
+        <item>@string/huawei</item>
+    </string-array>
+    <string-array name="sistemCel">
+        <item>@string/android</item>
+        <item>@string/ios</item>
+    </string-array>
+    <string-array name="colorCel">
+        <item>@string/negro</item>
+        <item>@string/azul</item>
+        <item>@string/blanco</item>
+        <item>@string/rojo</item>
+
+    </string-array>
+    <string name="crear">CREAR</string>
+    <string name="mostrar">MOSTRAR</string>
+    <string name="celularAd">AÑADIR CELULAR</string>
+    <string name="agregar">AGREGAR</string>
+    <string name="cancelar">BORRAR</string>
+    <string name="precio">Precio:</string>
+    <string name="ram">RAM:</string>
+    <string name="marca">Marca:</string>
+    <string name="sistemaOp">Sistema operativo:</string>
+    <string name="color">Color:</string>
+    <string name="mensajeExitoso">Celular guardado satisfactoriamente!!!</string>
+    <string name="listaReportes">LISTA DE REPORTES</string>
+    <string name="huaweiBlancoAndroid">Celulares Huawei blancos mas baratos son:</string>
+    <string name="samsung">Samsung</string>
+    <string name="huawei">Huawei</string>
+    <string name="android">Android</string>
+    <string name="ios">IOS</string>
+    <string name="negro">Negro</string>
+    <string name="azul">Azul</string>
+    <string name="blanco">Blanco</string>
+    <string name="rojo">Rojo</string>
+    <string name="samsungnegros">Samsung Negros</string>
+    <string name="numero">No.</string>
+    <string name="registros">Samsung</string>
+    <string name="registro">REGISTROS</string>
+    <string name="error">Digite el precio</string>
+    <string name="error1">Digite la RAM</string>
+    <string name="error2">El precio no puede ser 0</string>
+    <string name="error3">La RAM no puede ser 0</string>
+    <string name="reportes">Reportes</string>
+</resources>
